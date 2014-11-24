@@ -1,6 +1,5 @@
 danbri.github.io
 ================
 
-pages.
-
+pages...
 
